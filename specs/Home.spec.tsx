@@ -1,4 +1,4 @@
-import Home from '@/pages/Home'
+import Home from '@/pages/index'
 import { render } from '@testing-library/react'
 
 describe('Home Test', () => {
